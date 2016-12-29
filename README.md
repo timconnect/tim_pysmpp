@@ -10,9 +10,9 @@ Example:
 import logging
 import sys
 
-import smpplib.gsm
-import smpplib.client
-import smpplib.consts
+import tim_pysmpp.gsm
+import tim_pysmpp.client
+import tim_pysmpp.consts
 
 # if you want to know what's happening
 logging.basicConfig(level='DEBUG')

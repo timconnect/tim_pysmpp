@@ -3,9 +3,9 @@ from setuptools import setup, find_packages
 VERSION = '0.0.1'
 
 setup_info = dict(
-    name='tim_smpplib',
+    name='tim_pysmpp',
     version=VERSION,
-    url='https://github.com/timconnect/tim_smpplib',
+    url='https://github.com/timconnect/tim_pysmpp',
     description='SMPP library for Python3',
     classifiers=[
         'Development Status :: 4 - Beta',
