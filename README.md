@@ -1,7 +1,7 @@
 TIM_pysmpp
 ==========
 
-SMPP library for Python 3. Forked from [python-smpplib] (https://github.com/podshumok/python-smpplib)(Python 2 implementation).
+SMPP library for Python 3. Forked from [python-smpplib](https://github.com/podshumok/python-smpplib) (Python 2 implementation).
 
 
 Example:
